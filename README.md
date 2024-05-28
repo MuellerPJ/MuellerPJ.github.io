@@ -13,15 +13,15 @@ Key steps include:
 ## Project 2.1: Exploratory Data Analysis of Crime Trends in Los Angeles
 [notebook](https://github.com/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/EDA_Los_Angeles_Crime_Trends.ipynb) [nbviewer](https://nbviewer.org/github/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/EDA_Los_Angeles_Crime_Trends.ipynb) <br>
 This project involves an exploratory data analysis of crime trends in Los Angeles. As the original file size exceeded GitHub's upload limit of 55mb, it was split into several parts. The analysis looked at various factors such as the month, the day of the week, the time of day, but also the city areas in order to identify noticeable trends by visualizing the data. The dataset used was obtained from [Kaggle](https://www.kaggle.com/datasets/sahityasetu/crime-data-in-los-angeles-2020-to-present). The additional geojson data used to define the boundaries of the different districts of the LAPD in the heatmap was obtained from [here](https://geohub.lacity.org/datasets/lahub::lapd-divisions/explore?location=34.017393%2C-118.410104%2C9.90). Key steps of the project include:
-* 1
-* 2
-* 3
-* 4
+* Data Preprocessing with Pandas
+* Data Visualization with Matplotlib and Seaborn
+* Geospatial Visualization with Folium and Geopandas
 
 
 
 ## Project 2.2: 
-notebook<br>
+[notebook](https://github.com/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/heatmap_with_time_monthly.ipynb) [nbviewer](https://nbviewer.org/github/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/heatmap_with_time_monthly.ipynb) <br>
+In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap with time, displaying the crime statistics for each month from 2020 to 2023.
 
 ## Project 2.3:
 notebook<br>
