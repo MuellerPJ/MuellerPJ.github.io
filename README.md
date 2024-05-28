@@ -24,4 +24,5 @@ This project involves an exploratory data analysis of crime trends in Los Angele
 In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for each month from 2020 to 2023.
 
 ## Project 2.3: Heatmap over Time - Hour of the Day
-notebook<br>
+[notebook](https://github.com/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_hourly.ipynb)  [nbviewer](https://nbviewer.org/github/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_hourly.ipynb) <br>
+In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for the hour of the day.
