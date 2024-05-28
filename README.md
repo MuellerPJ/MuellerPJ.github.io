@@ -26,3 +26,7 @@ In this notebook, the initial steps from the previous notebook are repeated to a
 ## Project 2.3: Heatmap over Time - Hour of the Day
 [notebook](https://github.com/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_hourly.ipynb)  [nbviewer](https://nbviewer.org/github/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_hourly.ipynb) <br>
 In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for the hour of the day.
+
+
+## Project 3: Movement Recognition using Linear Regression on Acceleration Data
+Currently working on/cleaning up
