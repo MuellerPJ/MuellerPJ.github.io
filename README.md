@@ -21,11 +21,11 @@ This project involves an exploratory data analysis of crime trends in Los Angele
 
 ## Project 2.2: Heatmap over Time - Monthly Crime
 [notebook](https://github.com/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_monthly.ipynb) [nbviewer](https://nbviewer.org/github/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_monthly.ipynb) <br>
-In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for each month from 2020 to 2023.
+In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for each month from 2020 to 2023. For this part, I recommend using the nbviewer link to get a fully functioning final representation of the heatmap over time.
 
 ## Project 2.3: Heatmap over Time - Hour of the Day
 [notebook](https://github.com/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_hourly.ipynb)  [nbviewer](https://nbviewer.org/github/MuellerPJ/MuellerPJ.github.io/blob/main/notebooks/Heatmap_over_Time_hourly.ipynb) <br>
-In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for the hour of the day.
+In this notebook, the initial steps from the previous notebook are repeated to arrive at the same data. The main focus here is to visualize the data as a heatmap over time, displaying the crime statistics for the hour of the day. For this part, I recommend using the nbviewer link to get a fully functioning final representation of the heatmap over time.
 
 
 ## Project 3: Movement Recognition using Linear Regression on Acceleration Data
